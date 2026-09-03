@@ -1,4 +1,6 @@
 # meiponto
+Parte 1:   
+  
 modelo + skill  
   
   <img src="https://github.com/Leopqs/meiponto/blob/main/Screenshot_1.png" height=600 width=600 alt="Descrição da imagem">
@@ -58,6 +60,10 @@ Adicionar atualizarLivros() após atualizar uma pessoa.
 (Opcional, mas recomendado) Tratar a inserção de texto com textContent para fechar a brecha de XSS.
 
 
+
+  
+Parte 2:   
+  
   Modelo + Skill:
   
   <img src="https://github.com/Leopqs/meiponto/blob/main/Screenshot_2.png" height=600 width=600 alt="Descrição da imagem">
@@ -139,6 +145,10 @@ Você pode inspecionar e testar todas as melhorias diretamente na interface da a
 4. Código Pronto p/ PR: Visualizador e exportador com botão de cópia de script.js, index.html e style.css para atualizar o PR diretamente no GitHub.
 
 
+
+  
+Parte 3:   
+  
   Modelo + Skill:
   
   <img src="https://github.com/Leopqs/meiponto/blob/main/Screenshot_3.png" height=600 width=600 alt="Descrição da imagem">
