@@ -58,6 +58,10 @@ Adicionar atualizarLivros() após atualizar uma pessoa.
 (Opcional, mas recomendado) Tratar a inserção de texto com textContent para fechar a brecha de XSS.
 
 
+  Modelo + Skill:
+  
+  <img src="https://github.com/Leopqs/meiponto/blob/main/Screenshot_2.png" height=600 width=600 alt="Descrição da imagem">
+  
   resposta: 
     Esta é a revisão técnica do Pull Request Leopqs/meiponto #1 (CRUD - Livros e Pessoas), fundamentada nos princípios de Clean Code (Robert C. Martin / Uncle Bob), arquitetura de software e segurança (OWASP).
 Resumo Executivo da Revisão
